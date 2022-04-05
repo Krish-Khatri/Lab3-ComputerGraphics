@@ -1,0 +1,28 @@
+Rice University
+Computer Science - COMP 360/560
+Lab - Ray tracing
+
+
+Libraries
+-----------------------------------
+Fast Light Tookit
+http://www.fltk.org/
+
+libbmp
+http://code.google.com/p/libbmp/
+
+Matrix.h
+Author could be any one of the following people:
+Sridhar Lavu, Travis McPhail, Steve J
+
+ArcBall.h/ArcBall.cpp
+Terence J. Grant (tjgrant@tatewake.com)
+
+Maintained in Fall 2012 by
+Powei Feng
+
+-----------------------------------
+Improved and maintained by
+
+Visit Pataranutaporn (vp11)
+Fall 2016
